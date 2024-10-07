@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://8va54ne82gl5"
-path="res://.godot/imported/zombie_Hit_1.png-46d4383caeedf55a33a17cbd7c2075ab.ctex"
+path="res://.godot/imported/zombie_Hit_1.png-4277bbf42eb3bae292c6d611431c1897.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/enemys/Zombie/Hit/zombie_Hit_1.png"
-dest_files=["res://.godot/imported/zombie_Hit_1.png-46d4383caeedf55a33a17cbd7c2075ab.ctex"]
+source_file="res://assets incompleto/enemys/Zombie/Hit/zombie_Hit_1.png"
+dest_files=["res://.godot/imported/zombie_Hit_1.png-4277bbf42eb3bae292c6d611431c1897.ctex"]
 
 [params]
 

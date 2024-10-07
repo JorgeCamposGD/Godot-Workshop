@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://2luvj6r014fi"
-path="res://.godot/imported/Rolling_2.png-5b402d1858de6d71f548ea6adebbb1b9.ctex"
+path="res://.godot/imported/Rolling_2.png-1dacd4ed4e48dd42c6305154513ffe12.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/character/Main Character/Rolling_2.png"
-dest_files=["res://.godot/imported/Rolling_2.png-5b402d1858de6d71f548ea6adebbb1b9.ctex"]
+source_file="res://assets incompleto/character/Main Character/Rolling_2.png"
+dest_files=["res://.godot/imported/Rolling_2.png-1dacd4ed4e48dd42c6305154513ffe12.ctex"]
 
 [params]
 

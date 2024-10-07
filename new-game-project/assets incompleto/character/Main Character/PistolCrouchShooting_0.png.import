@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dhwkdq37efws0"
-path="res://.godot/imported/PistolCrouchShooting_0.png-76c2e180f8babe2ea83f374363424817.ctex"
+path="res://.godot/imported/PistolCrouchShooting_0.png-5b9e893699d77d5daa39789f5b45fca5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/character/Main Character/PistolCrouchShooting_0.png"
-dest_files=["res://.godot/imported/PistolCrouchShooting_0.png-76c2e180f8babe2ea83f374363424817.ctex"]
+source_file="res://assets incompleto/character/Main Character/PistolCrouchShooting_0.png"
+dest_files=["res://.godot/imported/PistolCrouchShooting_0.png-5b9e893699d77d5daa39789f5b45fca5.ctex"]
 
 [params]
 

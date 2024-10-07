@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://doma3n44jvo8v"
-path="res://.godot/imported/PistolDead_09.png-90d3268aef3c56c07f5e4d084505c068.ctex"
+path="res://.godot/imported/PistolDead_09.png-3e8fbd708328184017434ab26c9755bb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/character/Main Character/PistolDead_09.png"
-dest_files=["res://.godot/imported/PistolDead_09.png-90d3268aef3c56c07f5e4d084505c068.ctex"]
+source_file="res://assets incompleto/character/Main Character/PistolDead_09.png"
+dest_files=["res://.godot/imported/PistolDead_09.png-3e8fbd708328184017434ab26c9755bb.ctex"]
 
 [params]
 

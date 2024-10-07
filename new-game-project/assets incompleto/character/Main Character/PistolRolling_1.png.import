@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://n0eqmc50o681"
-path="res://.godot/imported/PistolRolling_1.png-571e9b366cfd0659dabe83acb7fc3665.ctex"
+path="res://.godot/imported/PistolRolling_1.png-27eb8b2fd277d41fb1e39122936d5a79.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/character/Main Character/PistolRolling_1.png"
-dest_files=["res://.godot/imported/PistolRolling_1.png-571e9b366cfd0659dabe83acb7fc3665.ctex"]
+source_file="res://assets incompleto/character/Main Character/PistolRolling_1.png"
+dest_files=["res://.godot/imported/PistolRolling_1.png-27eb8b2fd277d41fb1e39122936d5a79.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3eeda0wr8yh8"
-path="res://.godot/imported/zombie_Walk_0.png-e226f2a10e86052576c76e95b544d830.ctex"
+path="res://.godot/imported/zombie_Walk_0.png-2838c1b82a64696a1b9f3ff39026977e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/enemys/Zombie/Walk/zombie_Walk_0.png"
-dest_files=["res://.godot/imported/zombie_Walk_0.png-e226f2a10e86052576c76e95b544d830.ctex"]
+source_file="res://assets incompleto/enemys/Zombie/Walk/zombie_Walk_0.png"
+dest_files=["res://.godot/imported/zombie_Walk_0.png-2838c1b82a64696a1b9f3ff39026977e.ctex"]
 
 [params]
 

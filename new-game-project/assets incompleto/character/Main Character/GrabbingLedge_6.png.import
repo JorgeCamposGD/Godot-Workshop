@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ev8bjq08ffgu"
-path="res://.godot/imported/GrabbingLedge_6.png-21dbfa8b3ee39003a8812b8aeab3cbf1.ctex"
+path="res://.godot/imported/GrabbingLedge_6.png-3692cf312dc1512c5d3018bfadee9ae0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/character/Main Character/GrabbingLedge_6.png"
-dest_files=["res://.godot/imported/GrabbingLedge_6.png-21dbfa8b3ee39003a8812b8aeab3cbf1.ctex"]
+source_file="res://assets incompleto/character/Main Character/GrabbingLedge_6.png"
+dest_files=["res://.godot/imported/GrabbingLedge_6.png-3692cf312dc1512c5d3018bfadee9ae0.ctex"]
 
 [params]
 

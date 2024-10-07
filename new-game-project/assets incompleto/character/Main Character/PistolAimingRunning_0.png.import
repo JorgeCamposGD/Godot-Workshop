@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://y85bj2h4guy4"
-path="res://.godot/imported/PistolAimingRunning_0.png-0e120e969694f966f3a0813dc235680f.ctex"
+path="res://.godot/imported/PistolAimingRunning_0.png-173d6e0df90516687651fa1fdc504eec.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/character/Main Character/PistolAimingRunning_0.png"
-dest_files=["res://.godot/imported/PistolAimingRunning_0.png-0e120e969694f966f3a0813dc235680f.ctex"]
+source_file="res://assets incompleto/character/Main Character/PistolAimingRunning_0.png"
+dest_files=["res://.godot/imported/PistolAimingRunning_0.png-173d6e0df90516687651fa1fdc504eec.ctex"]
 
 [params]
 

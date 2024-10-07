@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://i7ytgvmaigf6"
-path="res://.godot/imported/GrabbingLedge_2.png-6ab545b3bb7490dcaa409917b3e171ae.ctex"
+uid="uid://djukdqgmitybw"
+path="res://.godot/imported/light.png-fca806ebbab33d4b9ad84a6dadba50c1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets incompleto/character/Main Character/GrabbingLedge_2.png"
-dest_files=["res://.godot/imported/GrabbingLedge_2.png-6ab545b3bb7490dcaa409917b3e171ae.ctex"]
+source_file="res://assets incompleto/character/bullet/light.png"
+dest_files=["res://.godot/imported/light.png-fca806ebbab33d4b9ad84a6dadba50c1.ctex"]
 
 [params]
 

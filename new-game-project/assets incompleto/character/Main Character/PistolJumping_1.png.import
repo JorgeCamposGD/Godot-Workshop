@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://u80ec7buk2ry"
-path="res://.godot/imported/PistolJumping_1.png-67b028f24141e598697c1f9c9bd0ad0f.ctex"
+path="res://.godot/imported/PistolJumping_1.png-f4b2cf2e3cb98fe740da2f0db87bac6c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/character/Main Character/PistolJumping_1.png"
-dest_files=["res://.godot/imported/PistolJumping_1.png-67b028f24141e598697c1f9c9bd0ad0f.ctex"]
+source_file="res://assets incompleto/character/Main Character/PistolJumping_1.png"
+dest_files=["res://.godot/imported/PistolJumping_1.png-f4b2cf2e3cb98fe740da2f0db87bac6c.ctex"]
 
 [params]
 

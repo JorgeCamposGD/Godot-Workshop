@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://chlyseti5terl"
-path="res://.godot/imported/PistolFalling_1.png-3f236d6680c9ca950d36ff2c9d8869b2.ctex"
+path="res://.godot/imported/PistolFalling_1.png-10d704bb111768579f58e05a91c5cdfd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/character/Main Character/PistolFalling_1.png"
-dest_files=["res://.godot/imported/PistolFalling_1.png-3f236d6680c9ca950d36ff2c9d8869b2.ctex"]
+source_file="res://assets incompleto/character/Main Character/PistolFalling_1.png"
+dest_files=["res://.godot/imported/PistolFalling_1.png-10d704bb111768579f58e05a91c5cdfd.ctex"]
 
 [params]
 

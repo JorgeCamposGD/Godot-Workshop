@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cndol72dil761"
-path="res://.godot/imported/zombie_Idle_2.png-60d26821faaa2904e53b3b3188f618dd.ctex"
+path="res://.godot/imported/zombie_Idle_2.png-efc8f1e9816313f7d356d511c1690db8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/enemys/Zombie/Idle/zombie_Idle_2.png"
-dest_files=["res://.godot/imported/zombie_Idle_2.png-60d26821faaa2904e53b3b3188f618dd.ctex"]
+source_file="res://assets incompleto/enemys/Zombie/Idle/zombie_Idle_2.png"
+dest_files=["res://.godot/imported/zombie_Idle_2.png-efc8f1e9816313f7d356d511c1690db8.ctex"]
 
 [params]
 
