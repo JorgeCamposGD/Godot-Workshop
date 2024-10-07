@@ -1,0 +1,174 @@
+[gd_scene load_steps=30 format=3 uid="uid://dktkfriti5x0p"]
+
+[ext_resource type="Script" path="res://assets/enemys/zombie.gd" id="1_lr50e"]
+[ext_resource type="Texture2D" uid="uid://bu4o3fx2tqmn6" path="res://assets/enemys/Zombie/Dead/zombie_Dead_0.png" id="2_jywq3"]
+[ext_resource type="Texture2D" uid="uid://u6ijbx844vqc" path="res://assets/enemys/Zombie/Attack/zombie_Attack_0.png" id="2_o6h1x"]
+[ext_resource type="Texture2D" uid="uid://dq8byy2f1sydj" path="res://assets/enemys/Zombie/Idle/zombie_Idle_0.png" id="2_u33u5"]
+[ext_resource type="Texture2D" uid="uid://bp8kpy8yrk7ku" path="res://assets/enemys/Zombie/Attack/zombie_Attack_1.png" id="3_nncxq"]
+[ext_resource type="Texture2D" uid="uid://b8huhj2srm47j" path="res://assets/enemys/Zombie/Idle/zombie_Idle_1.png" id="3_rdopr"]
+[ext_resource type="Texture2D" uid="uid://cy8fd70nfdfmk" path="res://assets/enemys/Zombie/Dead/zombie_Dead_1.png" id="3_wkoms"]
+[ext_resource type="Texture2D" uid="uid://cndol72dil761" path="res://assets/enemys/Zombie/Idle/zombie_Idle_2.png" id="4_7uqkk"]
+[ext_resource type="Texture2D" uid="uid://dbi2ifa3mxg3e" path="res://assets/enemys/Zombie/Dead/zombie_Dead_2.png" id="4_gxx4k"]
+[ext_resource type="Texture2D" uid="uid://wo7xqrnaadtd" path="res://assets/enemys/Zombie/Attack/zombie_Attack_2.png" id="4_xc24f"]
+[ext_resource type="Texture2D" uid="uid://biyp87sou068j" path="res://assets/enemys/Zombie/Idle/zombie_Idle_3.png" id="5_gxc48"]
+[ext_resource type="Texture2D" uid="uid://cwo8i4p1baqti" path="res://assets/enemys/Zombie/Attack/zombie_Attack_3.png" id="5_jtym5"]
+[ext_resource type="Texture2D" uid="uid://cdljs7bcgup5h" path="res://assets/enemys/Zombie/Dead/zombie_Dead_3.png" id="5_uh4u2"]
+[ext_resource type="Texture2D" uid="uid://yvgvr5tg0ptf" path="res://assets/enemys/Zombie/Dead/zombie_Dead_4.png" id="6_au2mg"]
+[ext_resource type="Texture2D" uid="uid://b7yxpmoiju422" path="res://assets/enemys/Zombie/Attack/zombie_Attack_4.png" id="6_twfdf"]
+[ext_resource type="Texture2D" uid="uid://ygtlt0u88haj" path="res://assets/enemys/Zombie/Dead/zombie_Dead_5.png" id="7_ju5jo"]
+[ext_resource type="Texture2D" uid="uid://dueevr4nw23h1" path="res://assets/enemys/Zombie/Attack/zombie_Attack_5.png" id="7_wtqln"]
+[ext_resource type="Texture2D" uid="uid://ck48s4lldcrlq" path="res://assets/enemys/Zombie/Dead/zombie_Dead_6.png" id="8_xe08e"]
+[ext_resource type="Texture2D" uid="uid://cucm1udaemrub" path="res://assets/enemys/Zombie/Dead/zombie_Dead_7.png" id="9_jiwr1"]
+[ext_resource type="Texture2D" uid="uid://dyaftiqpoo3e" path="res://assets/enemys/Zombie/Dead/zombie_Dead_8.png" id="10_qguvl"]
+[ext_resource type="Texture2D" uid="uid://b3eeda0wr8yh8" path="res://assets/enemys/Zombie/Walk/zombie_Walk_0.png" id="15_33wem"]
+[ext_resource type="Texture2D" uid="uid://bjthurww4rhws" path="res://assets/enemys/Zombie/Walk/zombie_Walk_1.png" id="16_agtkf"]
+[ext_resource type="Texture2D" uid="uid://dk4udnhwxwffu" path="res://assets/enemys/Zombie/Walk/zombie_Walk_2.png" id="17_1h0pc"]
+[ext_resource type="Texture2D" uid="uid://b0gwngk2j6avx" path="res://assets/enemys/Zombie/Walk/zombie_Walk_3.png" id="18_4s4r1"]
+[ext_resource type="Texture2D" uid="uid://eq6i5b3wkdmg" path="res://assets/enemys/Zombie/Walk/zombie_Walk_4.png" id="19_l0e0a"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_kpgqu"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2_o6h1x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_nncxq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_xc24f")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_jtym5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_twfdf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_wtqln")
+}],
+"loop": true,
+"name": &"atack",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2_jywq3")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_wkoms")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_gxx4k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_uh4u2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_au2mg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_ju5jo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_xe08e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_jiwr1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_qguvl")
+}],
+"loop": false,
+"name": &"death",
+"speed": 16.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2_u33u5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_rdopr")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_7uqkk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_gxc48")
+}],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("15_33wem")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_agtkf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_1h0pc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_4s4r1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_l0e0a")
+}],
+"loop": true,
+"name": &"walk",
+"speed": 5.0
+}]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_k1j5c"]
+size = Vector2(69, 140)
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_ddhi8"]
+radius = 24.0
+height = 136.0
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_wkfie"]
+size = Vector2(20, 134)
+
+[node name="Zombie" type="CharacterBody2D"]
+script = ExtResource("1_lr50e")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+texture_filter = 1
+scale = Vector2(5, 5)
+sprite_frames = SubResource("SpriteFrames_kpgqu")
+animation = &"death"
+autoplay = "default"
+
+[node name="AtackLeft" type="Area2D" parent="."]
+visible = false
+position = Vector2(35, 10)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="AtackLeft"]
+shape = SubResource("RectangleShape2D_k1j5c")
+
+[node name="AtackRight" type="Area2D" parent="."]
+visible = false
+position = Vector2(-36, 10)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="AtackRight"]
+shape = SubResource("RectangleShape2D_k1j5c")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(0, 12)
+shape = SubResource("CapsuleShape2D_ddhi8")
+
+[node name="Range" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Range"]
+position = Vector2(0, 11)
+scale = Vector2(31.4, 1)
+shape = SubResource("RectangleShape2D_wkfie")
+
+[connection signal="frame_changed" from="AnimatedSprite2D" to="." method="_on_animated_sprite_2d_frame_changed"]
+[connection signal="body_entered" from="AtackLeft" to="." method="_on_atack_body_entered"]
+[connection signal="body_exited" from="AtackLeft" to="." method="_on_atack_body_exited"]
+[connection signal="body_entered" from="AtackRight" to="." method="_on_atack_body_entered"]
+[connection signal="body_exited" from="AtackRight" to="." method="_on_atack_body_exited"]
+[connection signal="body_entered" from="Range" to="." method="_on_range_body_entered"]

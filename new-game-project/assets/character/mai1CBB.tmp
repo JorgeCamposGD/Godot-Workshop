@@ -1,0 +1,202 @@
+[gd_scene load_steps=40 format=3 uid="uid://cv33cwn1kd7c6"]
+
+[ext_resource type="Script" path="res://assets/character/main_character.gd" id="1_a1eat"]
+[ext_resource type="Texture2D" uid="uid://wdhxlitdymbh" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterPistolDead_00.png" id="2_a384a"]
+[ext_resource type="Texture2D" uid="uid://jeco547ux4jv" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterPistolDead_01.png" id="3_d8xlb"]
+[ext_resource type="Texture2D" uid="uid://bwwgh5vtf3q34" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterPistolDead_02.png" id="4_jbmx7"]
+[ext_resource type="Texture2D" uid="uid://yra1k3bn4v67" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterPistolDead_03.png" id="5_qhb8x"]
+[ext_resource type="Texture2D" uid="uid://dgqa2nfc3c22v" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterPistolDead_04.png" id="6_4618e"]
+[ext_resource type="Texture2D" uid="uid://f6intmlxsl6y" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterPistolDead_05.png" id="7_t6bk1"]
+[ext_resource type="Texture2D" uid="uid://v1pyv6ydwsbb" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterPistolDead_06.png" id="8_xsuiv"]
+[ext_resource type="Texture2D" uid="uid://dcxe2g01gmlws" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterPistolDead_07.png" id="9_rkj7l"]
+[ext_resource type="Texture2D" uid="uid://sdx3ukrabv6h" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterPistolDead_08.png" id="10_xc0bo"]
+[ext_resource type="Texture2D" uid="uid://dfwv1wgn5ccrb" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterPistolDead_09.png" id="11_t0mgv"]
+[ext_resource type="Texture2D" uid="uid://d0u8int4861bk" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterPistolDead_10.png" id="12_xril2"]
+[ext_resource type="Texture2D" uid="uid://85tu4xv6dj86" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterPistolDraw_0.png" id="13_wdt1t"]
+[ext_resource type="Texture2D" uid="uid://bqmhb0gc50hhh" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterAiming_0.png" id="14_a5tjo"]
+[ext_resource type="Texture2D" uid="uid://brxyswyyg0uqe" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterIdle_0.png" id="15_a31oa"]
+[ext_resource type="Texture2D" uid="uid://dc5x4hj5ldsr7" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterIdle_1.png" id="16_nqwdn"]
+[ext_resource type="Texture2D" uid="uid://2jaohd7eh1xe" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterIdle_2.png" id="17_ejc0g"]
+[ext_resource type="Texture2D" uid="uid://biaqqwdw6e87e" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterIdle_3.png" id="18_t4txm"]
+[ext_resource type="Texture2D" uid="uid://mbm2n7x0y423" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterJumping_0.png" id="19_nh7yg"]
+[ext_resource type="Texture2D" uid="uid://dv57fy2nybg48" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterJumping_1.png" id="20_lasx4"]
+[ext_resource type="Texture2D" uid="uid://bmxptpvjkdype" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterPistolJumping_0.png" id="21_i1ooa"]
+[ext_resource type="Texture2D" uid="uid://c8j2regs15d26" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterPistolJumping_1.png" id="22_dw21n"]
+[ext_resource type="Texture2D" uid="uid://d12ymvrqeelcn" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterRunning_0.png" id="23_rna8k"]
+[ext_resource type="Texture2D" uid="uid://l4axrxav4xlm" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterRunning_1.png" id="24_j6yyi"]
+[ext_resource type="Texture2D" uid="uid://c2in3epk1uxsw" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterRunning_2.png" id="25_sd261"]
+[ext_resource type="Texture2D" uid="uid://bmchkwj6jy6mh" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterRunning_3.png" id="26_ipact"]
+[ext_resource type="Texture2D" uid="uid://bw0atwp3mgj3l" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterRunning_4.png" id="27_0i3vk"]
+[ext_resource type="Texture2D" uid="uid://4b0blq1ovy5q" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterRunning_5.png" id="28_h0ejc"]
+[ext_resource type="Texture2D" uid="uid://bmeip4jdmoxok" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterRunning_6.png" id="29_xmw88"]
+[ext_resource type="Texture2D" uid="uid://bueququqeq31e" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterRunning_7.png" id="30_tcwss"]
+[ext_resource type="Texture2D" uid="uid://bpg0joapgduok" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterPistolAimingRunning_0.png" id="31_ny1dd"]
+[ext_resource type="Texture2D" uid="uid://d0vhimvcd2h4" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterPistolAimingRunning_1.png" id="32_b3ce5"]
+[ext_resource type="Texture2D" uid="uid://b5mxq70msv8lj" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterPistolAimingRunning_2.png" id="33_sydgy"]
+[ext_resource type="Texture2D" uid="uid://d1rqbfxi0xto3" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterPistolAimingRunning_3.png" id="34_vtvs7"]
+[ext_resource type="Texture2D" uid="uid://dj1mmch4fg8n8" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterPistolAimingRunning_4.png" id="35_75g33"]
+[ext_resource type="Texture2D" uid="uid://mjfk3j2vms8s" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterPistolAimingRunning_5.png" id="36_t32me"]
+[ext_resource type="Texture2D" uid="uid://x2bg0d0b215k" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterPistolAimingRunning_6.png" id="37_070gw"]
+[ext_resource type="Texture2D" uid="uid://dr6akfl684rjb" path="res://assets para filtrar/64x64 Pixel Art Character and zombie by RgsDev/Main Character/characterPistolAimingRunning_7.png" id="38_6awco"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_0hm1k"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2_a384a")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_d8xlb")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_jbmx7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_qhb8x")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_4618e")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_t6bk1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_xsuiv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_rkj7l")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_xc0bo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_t0mgv")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_xril2")
+}],
+"loop": false,
+"name": &"death",
+"speed": 7.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("13_wdt1t")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_a5tjo")
+}],
+"loop": false,
+"name": &"draw_pistol",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("15_a31oa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_nqwdn")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_ejc0g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_t4txm")
+}],
+"loop": true,
+"name": &"idle",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("19_nh7yg")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_lasx4")
+}],
+"loop": true,
+"name": &"jump",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("21_i1ooa")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_dw21n")
+}],
+"loop": true,
+"name": &"pistol_jump",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("23_rna8k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_j6yyi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_sd261")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_ipact")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_0i3vk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_h0ejc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_xmw88")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_tcwss")
+}],
+"loop": true,
+"name": &"walk",
+"speed": 7.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("31_ny1dd")
+}, {
+"duration": 1.0,
+"texture": ExtResource("32_b3ce5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("33_sydgy")
+}, {
+"duration": 1.0,
+"texture": ExtResource("34_vtvs7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("35_75g33")
+}, {
+"duration": 1.0,
+"texture": ExtResource("36_t32me")
+}, {
+"duration": 1.0,
+"texture": ExtResource("37_070gw")
+}, {
+"duration": 1.0,
+"texture": ExtResource("38_6awco")
+}],
+"loop": true,
+"name": &"walk_aiming",
+"speed": 7.0
+}]
+
+[node name="MainCharacter" type="CharacterBody2D"]
+script = ExtResource("1_a1eat")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+texture_filter = 1
+scale = Vector2(5, 5)
+sprite_frames = SubResource("SpriteFrames_0hm1k")
+animation = &"draw_pistol"
+frame = 1
+frame_progress = 1.0
+
+[node name="Camera2D" type="Camera2D" parent="."]
